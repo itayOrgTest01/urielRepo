@@ -1,3 +1,3 @@
 # urielRepo
 change
-check
+checks
